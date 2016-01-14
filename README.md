@@ -3,14 +3,14 @@ Chemical shift histogram of various atoms in the BMRB database
 
 Required R libraries
 
-1. shiny
+1. shny
 2. ggvis
-3. httr
+3. htr
 4. reshape2
 5. ggplot2
 6. plotly
 
-If the above packages are not installed in your system, then you may install those packages using the follwing command in your R
+If the abve packages are not installed in your system, then you may install those packages using the follwing command in your R
 
 install.packages(c('shiny','ggvis','httr','reshape2','ggplot2','plotly'))
 
