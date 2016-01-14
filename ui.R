@@ -13,7 +13,7 @@ shinyUI(fluidPage(
   )
            #column(6, plotOutput("plot2"))
   ),
-  p("Zoom in: Select the region and double click inside the region,Zoom out: Double click indide the plot without any selction",align="center",style = "color:black"),
+  #p("Zoom in: Select the region and double click inside the region,Zoom out: Double click indide the plot without any selction",align="center",style = "color:black"),
   fluidRow(
     #column(4,
     #       checkboxGroupInput("aa",
