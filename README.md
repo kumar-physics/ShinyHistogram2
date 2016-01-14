@@ -8,10 +8,11 @@ Required R libraries
 3. httr
 4. reshape2
 5. ggplot2
+6. plotly
 
 If the above packages are not installed in your system, then you may install those packages using the follwing command in your R
 
-install.packages(c('shiny','ggvis','httr','reshape2','ggplot2'))
+install.packages(c('shiny','ggvis','httr','reshape2','ggplot2','plotly'))
 
 Once you have all the necessary packages in your system, you may use the following commands to run the visualization
 
