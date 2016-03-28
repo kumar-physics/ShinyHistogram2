@@ -4,7 +4,7 @@ shinyUI(fluidPage(
   br(),
   titlePanel(img(src="logo_bmrb.jpg",height=120,width=120,align="left")),
   titlePanel(h1("Biological Magnetic Resonance Data Bank",align="center")),
-  titlePanel(h2("Chemical shift histogram of various atoms in BMRB",align="center",style = "color:black")),
+  titlePanel(h2("Chemical shift histogram from BMRB",align="center",style = "color:black")),
   br(),
   br(),
   #titlePanel(h1("BMRB statistics",align="center",style = "color:coral")),
